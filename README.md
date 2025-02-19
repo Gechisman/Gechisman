@@ -1,11 +1,5 @@
 # Hello, Digital World! 🚀 I'm Rodrigo, from Spain 🇪🇸
 
-## 🎯 My Philosophy
-
-> "Where technology meets artistry, magic happens"
-
-I don't just write code; I compose digital experiences. Every project is a new opportunity to harmonize logic with design.
-
 ## 💡 What Sets Me Apart
 
 - 🎹 Piano player who brings musical precision to coding

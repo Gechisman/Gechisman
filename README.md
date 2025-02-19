@@ -19,7 +19,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gechisman&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🌱 Actualmente estoy aprendiendo
@@ -40,4 +40,4 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 ---
 
-⭐️ From [Rodrigo](https://github.com/TU_USUARIO)
+⭐️ From [Rodrigo](https://github.com/Gechisman)

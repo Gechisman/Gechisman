@@ -15,7 +15,6 @@ const rodrigo = {
   tools: ['React', 'Node.js', 'Tailwind', 'Sass', 'Git'],
   design: ['UI/UX', 'Visual Design', 'Web Design'],
   passions: ['Piano', 'Creative Coding', 'Design Systems'],
-  motto: "Crafting harmony between code and design",
   debugLife: function() {
     let bug = findBug();
     while (bug) {
@@ -50,9 +49,8 @@ def life_routine():
 
 ## 💫 A Glimpse Into My World
 
-- 🎵 Mastering the art of clean code composition
+- 🎵 Clean code
 - 🎨 Crafting intuitive user experiences
-- 🌐 Music and code go hand in hand
 - 🔫 Professional bug hunter (they always find me first though)
 - 💭 Sometimes my code works and I don't know why
 - 🤯 Sometimes my code doesn't work and I don't know why
@@ -69,7 +67,7 @@ def life_routine():
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vite,nodejs,express,react,astro,unity,java,kotlin,unity,postman,mongodb,mysql,git,github,figma,ae,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vite,nodejs,express,react,astro,java,unity,postman,mongodb,mysql,git,github,figma,ae,ps&perline=9" />
   </a>
 </p>
 ---

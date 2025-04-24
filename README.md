@@ -67,7 +67,7 @@ def life_routine():
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vite,nodejs,express,react,astro,java,unity,postman,mongodb,mysql,git,github,figma,ae,ps&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vite,react,nodejs,express,astro,java,unity,postman,mongodb,mysql,postgresql,sequelize,git,github,figma,ae,ps&perline=12" />
   </a>
 </p>
 ---

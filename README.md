@@ -70,13 +70,10 @@ def life_routine():
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vite,react,nodejs,express,astro,java,unity,postman,mongodb,mysql,postgresql,sequelize,git,github,figma,ae,ps&perline=12" />
   </a>
 </p>
----
 
 <div align="center">
   
 ### 🚀 Ready to create something beautiful together?
-
-_"In the symphony of code, every detail matters... especially that one semicolon I forgot"_
 
 ⭐️ From [Gechisman](https://github.com/Gechisman)
 
